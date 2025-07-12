@@ -1,0 +1,67 @@
+# Node modules (backend + frontend)
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment files
+.env
+.env.*.local
+!.env.example
+
+# Build output
+dist/
+build/
+.vite/
+
+# Coverage directory
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: OS-specific
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Optional: Uploaded files
+uploads/
+public/uploads/
+
+# Optional: Mac/Linux trash
+.trash/
+.Trashes
+
+# Optional: Firebase or cloud deploy configs
+.firebaserc
+.firebase/
+# Optional: Miscellaneous
+*.bak
+*.tmp
+*.swp
+*.orig
+*.pid               
+*.seed
+*.pid.lock
+# Optional: Yarn and npm lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

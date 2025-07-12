@@ -1,4 +1,5 @@
-Currency Converter
+**Currency Converter**
+
 A sleek and intuitive web application designed to help users quickly convert amounts between various currencies. Built with a focus on user experience and real-time data, this tool makes currency exchange straightforward and accessible.
 
 ✨ Features

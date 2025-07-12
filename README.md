@@ -74,9 +74,7 @@ Commit your changes (git commit -m 'Add some AmazingFeature').
 
 Push to the branch (git push origin feature/AmazingFeature).
 
-Open a Pull Request.
+Open a Pull Request
 
-**📄 License**
-This project is licensed under the MIT License - see the LICENSE file for details (if you have one).
 
-Made with ❤️ by LAKSHYA9941
+**Made with ❤️ by LAKSHYA** 
